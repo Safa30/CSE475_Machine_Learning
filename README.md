@@ -1,8 +1,6 @@
 # CSE475_Machine_Learning
 ## 📌 Course Overview
-This repository contains all lab tasks, project source codes, and the final project report for the course **CSE475: Machine Learning**.
-
-The purpose of this repository is to document all practical work and learning outcomes throughout the course.
+This repository showcases my learning journey in CSE475: Machine Learning, including weekly lab tasks, project implementations, and the final project report.
 
 ---
 
